@@ -35,7 +35,7 @@ const Hero = () => {
           <h1 className="text-5xl md:text-6xl lg:text-7xl font-bold text-white mb-6 leading-tight">
             Învață Engleza și
             <br />
-            <span className="gradient-warm inline-block px-4 py-2 rounded-lg">Crește cu Încredere</span>
+            <span className="gradient-warm inline-block px-4 py-2 rounded-lg mt-3">Crește cu Încredere</span>
           </h1>
 
           <p className="text-xl md:text-2xl text-white/95 mb-8 leading-relaxed max-w-2xl mx-auto">
@@ -63,7 +63,7 @@ const Hero = () => {
           </div>
 
           {/* Stats */}
-          <div className="grid grid-cols-3 gap-8 mt-16 max-w-3xl mx-auto">
+          {/* <div className="grid grid-cols-3 gap-8 mt-16 max-w-3xl mx-auto">
             <div className="text-center">
               <div className="text-4xl md:text-5xl font-bold text-white mb-2">500+</div>
               <div className="text-white/90">Elevi Fericiți</div>
@@ -76,7 +76,7 @@ const Hero = () => {
               <div className="text-4xl md:text-5xl font-bold text-white mb-2">20+</div>
               <div className="text-white/90">Profesori Pasionați</div>
             </div>
-          </div>
+          </div> */}
         </div>
       </div>
 
